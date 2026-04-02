@@ -4,7 +4,7 @@ The class code generates the transfer function (or the spectrum) for the overden
 
 To run the code
 1. `git clone https://github.com/nataraj2/class_public.git`
-2. Go the `class_public` directory
+2. `cd class_public`
 3. `make -j8`
 4. `cp ForNyx/<.ini file>`
 5. `./class <.ini file>`
